@@ -4,7 +4,7 @@ System for detecting and removing duplicate MARC records in [Melinda, the Finnis
 
 ## Micro services
 
-The is implemented as micro services. Each service also depends on shared implemented as a [Javascript module](https://github.com/NatLibFi/melinda-deduplication-common).
+The is implemented as micro services. Each service also depends on shared code implemented as a [Javascript module](https://github.com/NatLibFi/melinda-deduplication-common).
 
 ### Listener
 
