@@ -1,5 +1,3 @@
-# Melinda deduplication system
-
 System for detecting and removing duplicate MARC records in [Melinda, the Finnish national metadata repository](https://www.kansalliskirjasto.fi/en/services/metadata-reserve-services/melinda).
 
 ## Micro services
