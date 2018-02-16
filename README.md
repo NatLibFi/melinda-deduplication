@@ -1,2 +1,1 @@
-# Melinda deduplication website
-Source files for [Melinda deduplication website](https://natlibfi.github.io/melinda-deduplication)
+See [wiki](../../wiki) for documentation
